@@ -41,7 +41,7 @@ Here are some screenshots of the interface:
 | Description        | URL           | Type  |
 | ------------- |-------------| -----:|
 | Online Web-version (hosted on Telegram servers)      | https://web.telegram.org/ | hosted
-| Online Web-version (hosted on GitHub pages)      | https://zhukov.github.io/webogram | hosted
+| Online Web-version (hosted on GitHub pages)      | https://zhukov.github.io/webogram // https://thisruan.github.io/webogram/| hosted
 | Chrome Web Store      | [https://chrome.google.com/webstore/detail/telegram/ clhhggbfdinjmjhajaheehoeibfljjno](https://chrome.google.com/webstore/detail/telegram/clhhggbfdinjmjhajaheehoeibfljjno) |   packed
 | Firefox & FirefoxOS Marketplace | https://marketplace.firefox.com/app/telegram |    packed
 
